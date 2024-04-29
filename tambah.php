@@ -66,7 +66,7 @@
 			</tr>
             <tr>
 				<td>Jenis Kelamin</td>
-				<td><input type="radio" name="jk" value="Laki-Laki" checked>Laki-Laki <br>
+				<td><input type="radio" name="jk" value="Laki-Laki" checked>Laki-Laki 
 				<input type="radio" name="jk" value="Perempuan" checked>Perempuan</td>
 			</tr>
             <tr>
